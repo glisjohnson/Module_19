@@ -4,5 +4,5 @@
 
 * Pictures:
 
-![TXN HASH](FinTech/0H_19_HW/Module_19/Pics/txn.png)
-![GANACHE](FinTech/0H_19_HW/Module_19/Pics/ganache.png)
+![TXN HASH](glisjohnson/Module_19/Pics/txn.png)
+![GANACHE](glisjohnson/Module_19/Pics/ganache.png)
