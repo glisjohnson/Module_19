@@ -4,5 +4,5 @@
 
 * Pictures:
 
-![TXN HASH](FinTech/0H_19_HW/Module_19/Pics/Screen Shot 2023-03-14 at 7.54.01 PM.png)
-![GANACHE](FinTech/0H_19_HW/Module_19/Pics/Screen Shot 2023-03-14 at 7.54.01 PM.png)
+![TXN HASH](FinTech/0H_19_HW/Module_19/Pics/txn.png)
+![GANACHE](FinTech/0H_19_HW/Module_19/Pics/ganache.png)
