@@ -4,5 +4,5 @@
 
 * Pictures:
 
-![TXN HASH](glisjohnson/Module_19/Pics/txn.png)
-![GANACHE](glisjohnson/Module_19/Pics/ganache.png)
+![TXN HASH](Pics/txn.png)
+![GANACHE](/Pics/ganache.png)
